@@ -1,6 +1,10 @@
 # Ultimate software list
 
-Software list chosen to be close to best in class for the functions it fulfills
+Software list determined to be close to best in class for the goals it fulfills.
+
+The best in class evaluation is currently being done via [Kialo](https://www.kialo.com/) where everyone can contribute so the best in class will many times change because of getting a more complete picture.
+
+The best in class evaluation method can and will change over time: we are doing science here folks and science adapts when new/better evidence is found! 👌✨🧪
 
 ## Productivity / Highly general 
 
