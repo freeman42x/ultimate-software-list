@@ -23,5 +23,13 @@ The best in class evaluation method can and will change over time: we are doing 
 
 ### To Do
 
+* to try
+  * terminal emulator - [kitty](https://sw.kovidgoyal.net/kitty/)
+  * generate nix packaging - [dream2nix](https://github.com/nix-community/dream2nix)
 * categories: free / not free, etc.
 * Kialo's per functionality/software
+
+### Other lists
+
+[Brian McKenna - puffnfresh](https://brianmckenna.org/blog/tools)
+[Gabriel - misterio](https://sr.ht/~misterio/nix-config/#tooling-and-applications-i-use)
