@@ -31,5 +31,5 @@ The best in class evaluation method can and will change over time: we are doing 
 
 ### Other lists
 
-[Brian McKenna - puffnfresh](https://brianmckenna.org/blog/tools)
-[Gabriel - misterio](https://sr.ht/~misterio/nix-config/#tooling-and-applications-i-use)
+* [Brian McKenna - puffnfresh](https://brianmckenna.org/blog/tools)
+* [Gabriel - misterio](https://sr.ht/~misterio/nix-config/#tooling-and-applications-i-use)
